@@ -1,2 +1,2 @@
 # abbrev
-Abbrev package from ported to Go
+Abbrev package ported from ruby to Go land.
